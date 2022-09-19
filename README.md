@@ -1,4 +1,4 @@
-# Calculadora de complejos
+# Clasico a lo cuantico 
 
 ## Integragrantes 
 Juan Andrés PIco 
